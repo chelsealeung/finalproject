@@ -95,6 +95,13 @@ margin: 10 10 0 10;
 
 }
 
+.rightimage {
+
+	float: right;
+	clear: both;
+	margin: 10px 10px 10px 10px
+}
+
 footer {
 
 background-color: seashell;
