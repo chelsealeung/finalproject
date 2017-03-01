@@ -44,7 +44,7 @@ font-size: 110%;
 .main {
 
 background-color: seashell;
-margin: 10px 310px 10px 10px;
+margin: 10px 320px 10px 10px;
 border-radius: 5px;
 padding: 20px;
 font-size: 110%;
@@ -97,7 +97,6 @@ section {
 background-color: seashell;
 border-radius: 10px;
 padding: 10px;
-margin: 10px;
 size: 110%;
 
 }
@@ -107,24 +106,24 @@ size: 110%;
 width: 300px;
 float: right;
 clear: right;
-margin: 10 10 0 10;
+margin: 10px 10px 0px 10px;
 
 }
 
 .centerimage {
 
-	margin: auto;
-	display: block;
+margin: auto;
+display: block;
 
 }
 
 .rightimage {
 
-	width: 300px;
-	float: right;
-	border-radius: 5px;
-	clear: right;
-	margin: 10px 10px 0px 10px;
+width: 300px;
+float: right;
+clear: right;
+margin: 10px 10px 0px 10px;
+	
 }
 
 footer {
