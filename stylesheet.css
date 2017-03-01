@@ -83,7 +83,7 @@ section {
 background-color: seashell;
 border-radius: 10px;
 padding: 10px;
-size: 110%;
+size: 100%;
 
 }
 
@@ -91,7 +91,7 @@ size: 110%;
 
 width: 300px;
 float: right;
-clear: right;
+clear: both;
 margin: 10px 10px 10px 10px;
 
 }
@@ -107,7 +107,7 @@ display: block;
 
 width: 270px;
 float: right;
-clear: right;
+clear: both;
 margin: 10px 10px 10px 10px;
 	
 }
