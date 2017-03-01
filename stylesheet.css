@@ -43,8 +43,12 @@ font-size: 110%;
 
 .main {
 
-margin: 10px 400px 10px 10px
-		
+background-color: seashell;
+margin: 10px 400px 10px 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+	
 }
 
 div {
